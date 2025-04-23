@@ -17,3 +17,14 @@ The goal of this project is to build a machine learning model that can classify 
    ```bash
    git clone https://github.com/yourusername/SpamSMS-Detection.git
    cd SpamSMS-Detection
+2. **Create and Activate a Virtual Environment**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate    # or `venv\Scripts\activate` on Windows
+3. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+4. **Run Script**
+   ```bash
+   python src/spam_detector.py
+
