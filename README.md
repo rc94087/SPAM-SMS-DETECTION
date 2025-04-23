@@ -24,7 +24,5 @@ The goal of this project is to build a machine learning model that can classify 
 3. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
-4. **Run Script**
-   ```bash
-   python src/spam_detector.py
-
+4. **Run the Jupyter Notebook**
+  
