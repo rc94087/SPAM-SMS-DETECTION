@@ -6,10 +6,10 @@ The goal of this project is to build a machine learning model that can classify 
 
 ## 📂 Project Structure
 
-- `SpamSMS_Detection.ipynb`: The Jupyter Notebook containing the development process.
-- `src/spam_detector.py`: Modularized Python code for the main logic.
-- `requirements.txt`: Python dependencies.
-- `spam_sms_dataset.csv`: Dataset used for training/testing (if applicable).
+- `SpamSMS Detection.ipynb`: Main Jupyter Notebook with all steps.
+- `requirements.txt`: Lists all necessary Python libraries to run the project.
+- `src/`: (Optional) Directory for modularized Python scripts.
+- `data/`: (Optional) Folder for storing dataset files.
 
 ## 🛠️ Steps to Run the Project
 
