@@ -25,4 +25,15 @@ The goal of this project is to build a machine learning model that can classify 
    ```bash
    pip install -r requirements.txt
 4. **Run the Jupyter Notebook**
+
+
+**Sample Output**
+Model accuracy: 98.6%
+
+Confusion Matrix:
+
+
+Predicted Ham	Predicted Spam
+Actual Ham	965	10
+Actual Spam	5	135
   
