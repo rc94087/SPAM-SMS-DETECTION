@@ -15,7 +15,7 @@ The goal of this project is to build a machine learning model that can classify 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/SpamSMS-Detection.git
+   git clone https://github.com/rc94087/SpamSMS-Detection.git
    cd SpamSMS-Detection
 2. **Create and Activate a Virtual Environment**
    ```bash
